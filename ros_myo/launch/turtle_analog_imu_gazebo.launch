@@ -1,0 +1,6 @@
+<launch>
+
+  <node pkg="ros_myo" name="turtle_msgs" type="analogTurtle_imu_gazebo.py"/>
+
+
+</launch>
